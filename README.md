@@ -32,7 +32,7 @@ Supported Models:
 To get started with this repository, clone it and explore the different folders and files. Each folder contains its own README file with more detailed information on how to use the models and tools. 
 
 
-Download [gpt2-512]([https://google.com](https://o365seoultech-my.sharepoint.com/:u:/g/personal/duy_tranthanh_officestu_seoultech_ac_kr/EdQjCv4m7VBCpXd0BkuBqL4BxAnz07aacP9N4sMjfo2yRQ?e=YVNxIp)) CoreML model.
+Download [gpt2-512](https://o365seoultech-my.sharepoint.com/:u:/g/personal/duy_tranthanh_officestu_seoultech_ac_kr/EdQjCv4m7VBCpXd0BkuBqL4BxAnz07aacP9N4sMjfo2yRQ?e=YVNxIp) CoreML model.
 
 
 **Contributing**
